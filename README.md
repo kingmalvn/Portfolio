@@ -19,6 +19,15 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 - Bootstrap (for responsive design)
 - [Your favorite framework or library, if applicable]
 
+## Deploy Here
+
+- [`VERCEL(free)`](https://vercel.com/login)
+- [`RENDER(free)`](https://dashboard.render.com)
+- [`KOYEB(free)`](https://app.koyeb.com)
+- [`HEROKU(paid)`](https://dashboard.heroku.com/new?template=https://github.com/kingmalvn/Portfolio)
+- [`NETLIFY(paid)`](https://netlify.app)
+- [`RAILWAY(paid)`](https://railway.app) or your own hosting.
+___
 
 
 # [Visit Live Website](https://public-profile-.vercel.app/)
